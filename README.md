@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amanda Padgett</h1>
+<h1 align="center">Hi, I'm Amanda Padgett</h1>
 <h3 align="center">A passionate frontend developer from South Carolina</h3>
 
 - 🔭 I’m currently working on **my first MIT portfolio project**
